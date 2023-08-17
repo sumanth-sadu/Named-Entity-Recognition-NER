@@ -8,7 +8,7 @@ checkpoints to generate the results mentioned in HW4-NLP-Report.pdf: Named-Entit
 outputs expected: Named-Entity-Recognition-NER/outputs/..
 data: Named-Entity-Recognition-NER/data/..
 
-Notice:
+Note:
 
 1. Provided two .py files for task 1 and task 2, respectively, which include code for training and testing on both dev and test sets. 
 2. hw4_nlp_task1.py generates dev1.out and test1.out, while hw4_nlp_task2.py produces dev2.out and test2.out files.
